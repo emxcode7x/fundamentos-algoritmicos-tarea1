@@ -3,17 +3,17 @@ RETO A
 ESCAPE ROOM
 
 Paso 1: Encender el interruptor A
-•	Activa la energía principal.
-•	No hay alarma porque B aún está apagado.
+ - Activa la energía principal.
+ - No hay alarma porque B aún está apagado.
 Paso 2: Encender el interruptor B
-•	Se cumplen condiciones para abrir la puerta (A y B encendidos),
-•	pero se activa la alarma.
+ - Se cumplen condiciones para abrir la puerta (A y B encendidos),
+ - pero se activa la alarma.
 Paso 3: Encender el interruptor C
-•	Como A ya está encendido, C sí funciona y apaga la alarma.
+ - Como A ya está encendido, C sí funciona y apaga la alarma.
 Resultado final:
-•	A = encendido
-•	B = encendido
-•	Alarma = apagada
+ - A = encendido
+ - B = encendido
+ - Alarma = apagada
 
 - La puerta se abre sin alarma activa.
 
