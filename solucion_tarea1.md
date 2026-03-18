@@ -25,28 +25,38 @@ RETO B
 
 - Paso 1:
 15 MOD 4 = 3
+
 - Paso 2:
 3 + 2 = 5
+
 - Paso 3:
 Se reemplaza en la expresión:
 NOT(5 == 5) OR (10 * 2 > 15 AND NOT(8 / 4 <= 1))
+
 - Paso 4:
 5 == 5 = Verdadero
+
 - Paso 5:
 10 * 2 = 20 y 20 > 15 = Verdadero
+
 - Paso 6:
 8 / 4 = 2 y 2 <= 1 = Falso
+
 - Paso 7:
 Se reemplaza todo:
 NOT(Verdadero) OR (Verdadero AND NOT(Falso))
+
 - Paso 8:
 NOT(Verdadero) = Falso
 NOT(Falso) = Verdadero
+
 - Paso 9:
 Queda:
 Falso OR (Verdadero AND Verdadero)
+
 - Paso 10:
 Verdadero AND Verdadero = Verdadero
+
 - Paso 11:
 Falso OR Verdadero = Verdadero
 
